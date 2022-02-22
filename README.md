@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 100%;">
 
 ![Wilghaner Status](https://github-readme-stats.vercel.app/api?username=WilghanerSilva&show_icons=true&count_private=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilghanerSilva&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center" style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 100%;">
 </div>
