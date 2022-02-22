@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Wilghaner Status](https://github-readme-stats.vercel.app/api?username=WilghanerSilva&show_icons=true&count_private=true)
+![Wilghaner Status](https://github-readme-stats.vercel.app/api?username=WilghanerSilva&show_icons=true&count_private=true&theme=dark)
