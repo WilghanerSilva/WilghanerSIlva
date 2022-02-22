@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Wilghaner Status](https://github-readme-stats.vercel.app/api?username=WilghanerSilva&show_icons=true&count_private=true&theme=dark)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilghanerSilva)](https://github.com/WilghanerSilva&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomagalhaes-dev&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
