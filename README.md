@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Wilghaner Status](https://github-readme-stats.vercel.app/api?username=WilghanerSilva&show_icons=true&count_private=true&theme=dark)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilghanerSilva)](https://github.com/WilghanerSilva)
